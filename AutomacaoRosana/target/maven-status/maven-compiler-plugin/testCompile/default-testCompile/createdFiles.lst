@@ -1,0 +1,9 @@
+steps\BuscaPetsSteps.class
+core\Element$1.class
+runners\WebRunner.class
+core\Custom.class
+pages\BuscaPetsPage.class
+enums\ByValue.class
+core\Driver.class
+core\Element.class
+logic\BuscaPetsLogic.class
